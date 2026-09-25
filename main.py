@@ -8,7 +8,7 @@ import sys
 import uvicorn
 
 if __name__ == "__main__":
-    port = 8050
+    port = 8090
     print("=" * 60)
     print("VALENS — Security Operations. Deception. Intelligence")
     print("Phase 1: Honeypot Sentinel Grid")
